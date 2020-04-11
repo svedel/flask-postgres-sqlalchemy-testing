@@ -11,3 +11,5 @@ A few additional ressources
 * [Defining your multi-container application with docker-compose.yml](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
 * [Setting up unit tests with Flask, SQLAlchemy and Postgres](http://kronosapiens.github.io/blog/2014/07/29/setting-up-unit-tests-with-flask.html)
 * [A complete guide to end-to-end API testing with Docker](https://www.freecodecamp.org/news/end-to-end-api-testing-with-docker/)
+* [TestDriven.io example for Flask app: github](https://github.com/mjhea0/flaskr-tdd)
+* [TestDriven.io course for Flask app](https://testdriven.io/courses/tdd-flask/)
