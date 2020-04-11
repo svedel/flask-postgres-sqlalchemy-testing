@@ -1,4 +1,4 @@
-# Testing SQLAlchemy for Postgres in app served via Flask
+# Testing SQLAlchemy for Postgres in Flask app
 Python-based repo used for investigating how to run `pytest` tests against `SQLAlchemy` for `Postgres` for a `Flask`-based webapp. Will include three environments and run in separate docker-containers (orchestrate via docker-compose)
 
 ## Ressources
